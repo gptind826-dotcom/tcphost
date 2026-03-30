@@ -13,8 +13,8 @@ from telebot import types
 # ==========================================
 # ⚙️ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐓𝐈𝐎𝐍 𝐒𝐄𝐓𝐓𝐈𝐍𝐆𝐒 ⚙️
 # ==========================================
-API_TOKEN = 'YOUR_BOT_TOKEN_HERE'  # Insert Telegram Bot Token
-ADMIN_ID = 12345678  # Insert your numeric Telegram ID
+API_TOKEN = '8529750722:AAFE8bXKEimv8hcT0Iyj2x2ITuJmZreb1Q8'  # Insert Telegram Bot Token
+ADMIN_ID = 8379062893  # Insert your numeric Telegram ID
 
 # HIDDEN CHANNEL REQUIREMENT
 REQUIRED_CHANNEL = "@exucodex" 
